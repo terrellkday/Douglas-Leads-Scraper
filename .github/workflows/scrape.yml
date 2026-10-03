@@ -22,20 +22,9 @@
 name: Daily Douglas Lead Scrape
 
 on:
-  schedule:
-    # GitHub cron is ALWAYS in UTC. 12:57 UTC is 8:57am Eastern in summer
-    # (EDT) and 7:57am Eastern in winter (EST). GitHub does not adjust for
-    # daylight saving, so the local time shifts by an hour twice a year --
-    # harmless here, since the scraper looks back a full 7 days either way.
-    #
-    # The odd :57 is deliberate. Scheduled jobs queue heavily on the hour and
-    # GitHub may delay or drop them; an off-peak minute runs far more reliably.
-    # This slot is 40 minutes after the Coweta County scraper's 8:17am run
-    # (and 70 after Clayton's 7:47am) so the three repos never contend for a
-    # runner at the same minute.
-    - cron: "57 12 * * *"
-
-  # Adds a "Run workflow" button on the Actions tab.
+  # NOTE (2026-10-03): GitHub's built-in scheduler missed every repo's
+  # first scheduled run, so daily runs are triggered by Baron's scheduler
+  # via workflow_dispatch instead. Do not re-add a schedule trigger here.
   workflow_dispatch:
     inputs:
       lookback_days:
