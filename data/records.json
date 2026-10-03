@@ -1,0 +1,27 @@
+{
+  "fetched_at": "",
+  "source": "Douglas County GA Public Records",
+  "date_range": {
+    "start": "",
+    "end": ""
+  },
+  "run_window": {
+    "start": "",
+    "end": ""
+  },
+  "archive_range": {
+    "start": "",
+    "end": ""
+  },
+  "filed_range": {
+    "start": "",
+    "end": ""
+  },
+  "new_this_run": 0,
+  "archive_total": 0,
+  "dashboard_days": 120,
+  "total": 0,
+  "with_address": 0,
+  "sources_report": {},
+  "records": []
+}
