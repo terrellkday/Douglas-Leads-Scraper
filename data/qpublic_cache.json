@@ -898,5 +898,161 @@
     "attempts": 1,
     "next_retry": "2026-10-04",
     "fetched": "2026-10-02"
+  },
+  "00420350018": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "00550150151": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "00600250175": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "00650150039": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "00720150242": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "00740250018": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "00750150250": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "00790150004": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "00790350005": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "00830150021": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "00940250064": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "01170150004": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "01250250069": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "01270250027": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "01430350187": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "01800250021": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "01900350013": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "02040250073": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "02040250113": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "02170250112": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "03171820039": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "05301820056": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "05511820011": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "07040130144": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "07101820029": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
+  },
+  "09201820022": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-08",
+    "fetched": "2026-10-06"
   }
 }
