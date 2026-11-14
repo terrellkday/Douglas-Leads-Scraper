@@ -2,7 +2,7 @@
   {
     "doc_num": "GPN-5d32be0d672549a5",
     "doc_type": "Notice of Sale Under Power",
-    "filed": "2026-11-07",
+    "filed": "2026-11-14",
     "cat": "FC",
     "cat_label": "Pre-Foreclosure",
     "owner": "",
@@ -10,7 +10,7 @@
     "name_order": "natural",
     "grantee": "",
     "amount": null,
-    "legal": "Douglas County Sentinel Saturday, November 07, 2026 City: Douglasville County: Douglas UNITS Atlanta Moving and Portable Storage 475 Riverside Parkway Suite 200 Lithia Springs, GA 30122 Call 678-838-6556 Auction – Foreclosure of lien for storage charges due. Household goods, machinery, compressors, auto parts, shop tools and personal property shall be auctioned off to the highes ... click 'view' to open the full text.",
+    "legal": "Douglas County Sentinel Saturday, November 14, 2026 City: Douglasville County: Douglas UNITS Atlanta Moving and Portable Storage 475 Riverside Parkway Suite 200 Lithia Springs, GA 30122 Call 678-838-6556 Auction – Foreclosure of lien for storage charges due. Household goods, machinery, compressors, auto parts, shop tools and personal property shall be auctioned off to the highes ... click 'view' to open the full text.",
     "parcel_id": "",
     "prop_address": "475 RIVERSIDE PARKWAY SUITE 200 LITHIA SPRINGS",
     "prop_city": "",
@@ -32,7 +32,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -74,7 +74,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -83,6 +83,48 @@
     "score": 70,
     "county": "Douglas",
     "first_seen": "2026-11-03"
+  },
+  {
+    "doc_num": "GPN-aa8863c552dcb334",
+    "doc_type": "Notice of Sale Under Power",
+    "filed": "2026-11-14",
+    "cat": "FC",
+    "cat_label": "Pre-Foreclosure",
+    "owner": "Daisya Davis, Married Woman",
+    "parcel_owner": "",
+    "name_order": "natural",
+    "grantee": "",
+    "amount": null,
+    "legal": "Douglas County Sentinel Saturday, November 14, 2026 City: Douglasville County: Douglas TS #2026-25414-GA Notice Of Sale Under Power Georgia, Douglas County Under and by virtue of the Power of Sale contained in that certain Security Deed given by Daisya Davis, Married Woman to Mortgage Electronic Registration Systems, Inc., as Grantor, as nominee for Mutual of Omaha Mortgage, Inc., ... click 'view' to open the full text.",
+    "parcel_id": "",
+    "prop_address": "",
+    "prop_city": "",
+    "prop_state": "GA",
+    "prop_zip": "",
+    "pub_city": "Douglasville",
+    "mail_address": "",
+    "mail_city": "",
+    "mail_state": "",
+    "mail_zip": "",
+    "owner_occupied": null,
+    "clerk_url": "https://www.georgiapublicnotice.com/search.aspx",
+    "source": "Georgia Public Notice (legal organ advertisement)",
+    "foreclosure_sale_date": "",
+    "tax_sale_date": "",
+    "years_delinquent": "",
+    "heirs_unknown": false,
+    "notice_number": "aa8863c552dcb334",
+    "status": "active",
+    "match_confidence": 0.0,
+    "match_method": "none",
+    "last_verified": "2026-11-14",
+    "flags": [
+      "Pre-foreclosure",
+      "New this week"
+    ],
+    "score": 65,
+    "county": "Douglas",
+    "first_seen": "2026-11-07"
   },
   {
     "doc_num": "GPN-be3444e6943ace4a",
@@ -117,7 +159,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -159,7 +201,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -201,7 +243,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -243,7 +285,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -324,48 +366,6 @@
     "years_delinquent": "",
     "heirs_unknown": false,
     "notice_number": "406c59bfcf6bac39",
-    "status": "active",
-    "match_confidence": 0.0,
-    "match_method": "none",
-    "last_verified": "2026-11-10",
-    "flags": [
-      "Pre-foreclosure",
-      "New this week"
-    ],
-    "score": 65,
-    "county": "Douglas",
-    "first_seen": "2026-11-07"
-  },
-  {
-    "doc_num": "GPN-aa8863c552dcb334",
-    "doc_type": "Notice of Sale Under Power",
-    "filed": "2026-11-07",
-    "cat": "FC",
-    "cat_label": "Pre-Foreclosure",
-    "owner": "Daisya Davis, Married Woman",
-    "parcel_owner": "",
-    "name_order": "natural",
-    "grantee": "",
-    "amount": null,
-    "legal": "Douglas County Sentinel Saturday, November 07, 2026 City: Douglasville County: Douglas TS #2026-25414-GA Notice Of Sale Under Power Georgia, Douglas County Under and by virtue of the Power of Sale contained in that certain Security Deed given by Daisya Davis, Married Woman to Mortgage Electronic Registration Systems, Inc., as Grantor, as nominee for Mutual of Omaha Mortgage, Inc., ... click 'view' to open the full text.",
-    "parcel_id": "",
-    "prop_address": "",
-    "prop_city": "",
-    "prop_state": "GA",
-    "prop_zip": "",
-    "pub_city": "Douglasville",
-    "mail_address": "",
-    "mail_city": "",
-    "mail_state": "",
-    "mail_zip": "",
-    "owner_occupied": null,
-    "clerk_url": "https://www.georgiapublicnotice.com/search.aspx",
-    "source": "Georgia Public Notice (legal organ advertisement)",
-    "foreclosure_sale_date": "",
-    "tax_sale_date": "",
-    "years_delinquent": "",
-    "heirs_unknown": false,
-    "notice_number": "aa8863c552dcb334",
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
@@ -495,7 +495,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -537,7 +537,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -580,7 +580,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -623,7 +623,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -665,7 +665,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -707,7 +707,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -749,7 +749,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -791,7 +791,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -833,7 +833,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -875,7 +875,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -918,7 +918,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -960,7 +960,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -1003,7 +1003,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1045,7 +1045,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1087,7 +1087,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1129,7 +1129,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1171,7 +1171,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1213,7 +1213,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1255,7 +1255,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -1298,7 +1298,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1340,7 +1340,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1382,7 +1382,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1424,7 +1424,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1466,7 +1466,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1508,7 +1508,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1550,7 +1550,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1592,7 +1592,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1634,7 +1634,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1676,7 +1676,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1718,7 +1718,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1760,7 +1760,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1802,7 +1802,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1844,7 +1844,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1886,7 +1886,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1928,7 +1928,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -1970,7 +1970,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2012,7 +2012,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2054,7 +2054,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2096,7 +2096,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2138,7 +2138,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2180,7 +2180,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2222,7 +2222,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2264,7 +2264,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2306,7 +2306,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2348,7 +2348,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2390,7 +2390,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2432,7 +2432,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2474,7 +2474,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2516,7 +2516,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2558,7 +2558,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2600,7 +2600,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2642,7 +2642,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2684,7 +2684,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2726,7 +2726,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2768,7 +2768,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2810,7 +2810,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2852,7 +2852,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2894,7 +2894,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2936,7 +2936,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -2978,7 +2978,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3020,7 +3020,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -3063,7 +3063,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -3106,7 +3106,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -3149,7 +3149,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3191,7 +3191,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3233,7 +3233,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3275,7 +3275,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3317,7 +3317,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3359,7 +3359,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3401,7 +3401,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3443,7 +3443,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3485,7 +3485,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3527,7 +3527,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3569,7 +3569,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3611,7 +3611,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3653,7 +3653,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -3696,7 +3696,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -3739,7 +3739,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3781,7 +3781,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3823,7 +3823,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3865,7 +3865,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3907,7 +3907,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3949,7 +3949,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -3991,7 +3991,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4033,7 +4033,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4075,7 +4075,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4117,7 +4117,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4159,7 +4159,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4201,7 +4201,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -4244,7 +4244,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4286,7 +4286,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4328,7 +4328,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -4371,7 +4371,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4413,7 +4413,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4455,7 +4455,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4497,7 +4497,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4539,7 +4539,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -4582,7 +4582,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -4625,7 +4625,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -4668,7 +4668,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -4711,7 +4711,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4753,7 +4753,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4795,7 +4795,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4837,7 +4837,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4879,7 +4879,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -4921,7 +4921,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -4964,7 +4964,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -5007,7 +5007,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -5050,7 +5050,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5092,7 +5092,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5134,7 +5134,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5176,7 +5176,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5218,7 +5218,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5260,7 +5260,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5302,7 +5302,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5344,7 +5344,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5386,7 +5386,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5428,7 +5428,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5470,7 +5470,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5512,7 +5512,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -5555,7 +5555,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5597,7 +5597,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5639,7 +5639,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5681,7 +5681,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -5724,7 +5724,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -5767,7 +5767,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5809,7 +5809,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5851,7 +5851,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5893,7 +5893,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -5935,7 +5935,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -5978,7 +5978,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6020,7 +6020,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6062,7 +6062,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6104,7 +6104,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6146,7 +6146,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6188,7 +6188,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6230,7 +6230,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6272,7 +6272,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6314,7 +6314,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6356,7 +6356,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6398,7 +6398,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6440,7 +6440,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6482,7 +6482,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6524,7 +6524,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6566,7 +6566,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -6609,7 +6609,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -6652,7 +6652,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6694,7 +6694,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -6737,7 +6737,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6779,7 +6779,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6821,7 +6821,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -6864,7 +6864,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6906,7 +6906,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6948,7 +6948,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -6990,7 +6990,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7032,7 +7032,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7074,7 +7074,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7116,7 +7116,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7158,7 +7158,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7200,7 +7200,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7242,7 +7242,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7284,7 +7284,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7326,7 +7326,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7368,7 +7368,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7410,7 +7410,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7452,7 +7452,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7494,7 +7494,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7536,7 +7536,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -7579,7 +7579,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7621,7 +7621,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7663,7 +7663,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7705,7 +7705,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7747,7 +7747,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7789,7 +7789,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7831,7 +7831,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7873,7 +7873,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7915,7 +7915,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -7957,7 +7957,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -8000,7 +8000,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8042,7 +8042,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8084,7 +8084,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8126,7 +8126,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8168,7 +8168,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -8211,7 +8211,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8253,7 +8253,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8295,7 +8295,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8337,7 +8337,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8379,7 +8379,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8421,7 +8421,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8463,7 +8463,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8505,7 +8505,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8547,7 +8547,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8589,7 +8589,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8631,7 +8631,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -8674,7 +8674,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -8717,7 +8717,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -8760,7 +8760,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8802,7 +8802,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -8845,7 +8845,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8887,7 +8887,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8929,7 +8929,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -8971,7 +8971,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9013,7 +9013,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9055,7 +9055,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9097,7 +9097,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9139,7 +9139,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9181,7 +9181,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9223,7 +9223,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9265,7 +9265,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9307,7 +9307,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9349,7 +9349,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9391,7 +9391,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9433,7 +9433,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9475,7 +9475,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9517,7 +9517,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9559,7 +9559,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9601,7 +9601,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9643,7 +9643,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9685,7 +9685,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9727,7 +9727,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9769,7 +9769,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9811,7 +9811,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9853,7 +9853,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9895,7 +9895,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -9938,7 +9938,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -9980,7 +9980,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10022,7 +10022,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10064,7 +10064,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10106,7 +10106,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -10149,7 +10149,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10191,7 +10191,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10233,7 +10233,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10275,7 +10275,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10317,7 +10317,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10359,7 +10359,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10401,7 +10401,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10443,7 +10443,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10485,7 +10485,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10527,7 +10527,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -10570,7 +10570,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10612,7 +10612,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10654,7 +10654,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10696,7 +10696,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10738,7 +10738,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10780,7 +10780,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10822,7 +10822,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10864,7 +10864,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10906,7 +10906,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10948,7 +10948,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -10990,7 +10990,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11032,7 +11032,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11074,7 +11074,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11116,7 +11116,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11158,7 +11158,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11200,7 +11200,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11242,7 +11242,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11284,7 +11284,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11326,7 +11326,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11368,7 +11368,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11410,7 +11410,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11452,7 +11452,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11494,7 +11494,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -11537,7 +11537,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11579,7 +11579,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11621,7 +11621,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11663,7 +11663,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11705,7 +11705,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11747,7 +11747,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -11790,7 +11790,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11832,7 +11832,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11874,7 +11874,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11916,7 +11916,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -11958,7 +11958,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12000,7 +12000,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12042,7 +12042,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12084,7 +12084,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12126,7 +12126,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -12169,7 +12169,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12211,7 +12211,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12253,7 +12253,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12295,7 +12295,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12337,7 +12337,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12379,7 +12379,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12421,7 +12421,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -12464,7 +12464,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -12507,7 +12507,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12549,7 +12549,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12591,7 +12591,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12633,7 +12633,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12675,7 +12675,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12717,7 +12717,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12759,7 +12759,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12801,7 +12801,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12843,7 +12843,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12885,7 +12885,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12927,7 +12927,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -12969,7 +12969,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13011,7 +13011,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13053,7 +13053,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13095,7 +13095,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13137,7 +13137,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13179,7 +13179,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13221,7 +13221,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13263,7 +13263,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13305,7 +13305,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13347,7 +13347,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13389,7 +13389,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13431,7 +13431,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13473,7 +13473,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13515,7 +13515,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13557,7 +13557,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13599,7 +13599,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13641,7 +13641,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13683,7 +13683,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13725,7 +13725,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -13768,7 +13768,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13810,7 +13810,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13852,7 +13852,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13894,7 +13894,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13936,7 +13936,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -13978,7 +13978,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -14020,7 +14020,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -14062,7 +14062,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -14104,7 +14104,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -14146,7 +14146,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -14188,7 +14188,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14231,7 +14231,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14274,7 +14274,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14317,7 +14317,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14360,7 +14360,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14403,7 +14403,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14446,7 +14446,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14489,7 +14489,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14532,7 +14532,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14575,7 +14575,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14618,7 +14618,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14661,7 +14661,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14704,7 +14704,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -14746,7 +14746,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14789,7 +14789,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14832,7 +14832,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14875,7 +14875,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14918,7 +14918,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -14961,7 +14961,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -15004,7 +15004,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -15047,7 +15047,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -15090,7 +15090,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -15133,7 +15133,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15175,7 +15175,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -15218,7 +15218,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15260,7 +15260,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15302,7 +15302,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15344,7 +15344,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15386,7 +15386,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15428,7 +15428,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15470,7 +15470,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15512,7 +15512,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15554,7 +15554,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15596,7 +15596,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15638,7 +15638,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15680,7 +15680,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15722,7 +15722,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15764,7 +15764,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15806,7 +15806,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15848,7 +15848,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -15891,7 +15891,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15933,7 +15933,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -15975,7 +15975,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16017,7 +16017,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16059,7 +16059,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16101,7 +16101,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16143,7 +16143,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16185,7 +16185,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16227,7 +16227,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16269,7 +16269,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16311,7 +16311,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16353,7 +16353,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16395,7 +16395,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16437,7 +16437,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16479,7 +16479,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16521,7 +16521,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16563,7 +16563,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16605,7 +16605,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16647,7 +16647,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16689,7 +16689,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16731,7 +16731,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16773,7 +16773,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16815,7 +16815,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16857,7 +16857,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16899,7 +16899,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16941,7 +16941,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -16983,7 +16983,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17025,7 +17025,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17067,7 +17067,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17109,7 +17109,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17151,7 +17151,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17193,7 +17193,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17235,7 +17235,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17277,7 +17277,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17319,7 +17319,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17361,7 +17361,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17403,7 +17403,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17445,7 +17445,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17487,7 +17487,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17529,7 +17529,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17571,7 +17571,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -17614,7 +17614,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17656,7 +17656,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17698,7 +17698,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17740,7 +17740,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17782,7 +17782,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17824,7 +17824,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17866,7 +17866,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17908,7 +17908,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17950,7 +17950,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -17992,7 +17992,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18034,7 +18034,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18076,7 +18076,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18118,7 +18118,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18160,7 +18160,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18202,7 +18202,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18244,7 +18244,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18286,7 +18286,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -18329,7 +18329,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18371,7 +18371,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18413,7 +18413,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18455,7 +18455,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18497,7 +18497,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18539,7 +18539,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18581,7 +18581,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18623,7 +18623,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18665,7 +18665,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18707,7 +18707,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18749,7 +18749,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18791,7 +18791,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18833,7 +18833,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18875,7 +18875,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18917,7 +18917,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -18959,7 +18959,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19001,7 +19001,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19043,7 +19043,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19085,7 +19085,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19127,7 +19127,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19169,7 +19169,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19211,7 +19211,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19253,7 +19253,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19295,7 +19295,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19337,7 +19337,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19379,7 +19379,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -19422,7 +19422,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19464,7 +19464,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19506,7 +19506,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19548,7 +19548,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19590,7 +19590,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19632,7 +19632,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19674,7 +19674,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19716,7 +19716,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19758,7 +19758,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19800,7 +19800,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19842,7 +19842,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19884,7 +19884,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19926,7 +19926,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -19968,7 +19968,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20010,7 +20010,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20052,7 +20052,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20094,7 +20094,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20136,7 +20136,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20178,7 +20178,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20220,7 +20220,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20262,7 +20262,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20304,7 +20304,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20346,7 +20346,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20388,7 +20388,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20430,7 +20430,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -20473,7 +20473,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20515,7 +20515,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20557,7 +20557,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -20600,7 +20600,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20642,7 +20642,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20684,7 +20684,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20726,7 +20726,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20768,7 +20768,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20810,7 +20810,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20852,7 +20852,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20894,7 +20894,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20936,7 +20936,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -20978,7 +20978,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21020,7 +21020,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21062,7 +21062,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21104,7 +21104,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21146,7 +21146,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21188,7 +21188,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21230,7 +21230,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21272,7 +21272,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21314,7 +21314,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21356,7 +21356,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21398,7 +21398,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21440,7 +21440,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -21483,7 +21483,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21525,7 +21525,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21567,7 +21567,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21609,7 +21609,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21651,7 +21651,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21693,7 +21693,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21735,7 +21735,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21777,7 +21777,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21819,7 +21819,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21861,7 +21861,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21903,7 +21903,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21945,7 +21945,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -21987,7 +21987,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22029,7 +22029,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22071,7 +22071,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22113,7 +22113,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -22156,7 +22156,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22198,7 +22198,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22240,7 +22240,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22282,7 +22282,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22324,7 +22324,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22366,7 +22366,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22408,7 +22408,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22450,7 +22450,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22492,7 +22492,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22534,7 +22534,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22576,7 +22576,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22618,7 +22618,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -22661,7 +22661,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22703,7 +22703,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -22746,7 +22746,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22788,7 +22788,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22830,7 +22830,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -22873,7 +22873,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22915,7 +22915,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22957,7 +22957,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -22999,7 +22999,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23041,7 +23041,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23083,7 +23083,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23125,7 +23125,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23167,7 +23167,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23209,7 +23209,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23251,7 +23251,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23293,7 +23293,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23335,7 +23335,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23377,7 +23377,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23419,7 +23419,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23461,7 +23461,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23503,7 +23503,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23545,7 +23545,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23587,7 +23587,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23629,7 +23629,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23671,7 +23671,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23713,7 +23713,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23755,7 +23755,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period",
@@ -23798,7 +23798,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23840,7 +23840,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23882,7 +23882,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23924,7 +23924,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -23966,7 +23966,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-13",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "Past tax sale / redemption period"
@@ -28666,7 +28666,7 @@
     "name_order": "natural",
     "grantee": "",
     "amount": null,
-    "legal": "Douglas County Sentinel Saturday, November 07, 2026 City: Douglasville County: Douglas NOTICE OF SERVICE BY PUBLICATION IN THE SUPERIOR COURT OF DOUGLAS COUNTY, STATE OF GEORGIA GREG BAKER, solely in his capacity as Tax Commissioner of Douglas County, Petitioner, v. MICHELE L. HILLMAN A/K/A MICHELE LYNN KELLY, AS EXECUTRIX OF THE ESTATE OF BOBBY THOMAS OZBURN, et al, Responden ... click 'view' to open the full text.",
+    "legal": "Douglas County Sentinel Saturday, November 14, 2026 City: Douglasville County: Douglas NOTICE OF SERVICE BY PUBLICATION IN THE SUPERIOR COURT OF DOUGLAS COUNTY, STATE OF GEORGIA GREG BAKER, solely in his capacity as Tax Commissioner of Douglas County, Petitioner, v. MICHELE L. HILLMAN A/K/A MICHELE LYNN KELLY, AS EXECUTRIX OF THE ESTATE OF BOBBY THOMAS OZBURN, et al, Responden ... click 'view' to open the full text.",
     "parcel_id": "",
     "prop_address": "",
     "prop_city": "",
@@ -28688,7 +28688,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-14",
     "flags": [
       "Tax delinquent",
       "New this week"
